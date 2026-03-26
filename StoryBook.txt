@@ -1,2 +1,14 @@
+Writers man:
+Ungureanu Violeta-Mihaela
 Cool story goes here:
+
+1
+The wizard woke up and felt horrible. His nose was runny, his eyes watery and his mouth felt dry.
+He went to the grimoire to search for a spell to make him feel better.
+But because of his dyslexia and watery eyes, he couldn't read a thing.
+He had to choose:
+
+1. go back to sleep             3
+2. go to the left room
+3. go to the right room
 
