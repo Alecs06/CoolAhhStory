@@ -1,2 +1,7 @@
 Cool story goes here:
 
+2
+The wizard turns right and finds himself in a room with no windows and again two doors: left or right. On the wall right in front of him there is an old drawing of a beautiful young lady. Who is she? He feels like he knows her, but he cannot remember who she is and what is she for him. A nostalgia fills him deeply and cannot bear to stay anymore in this room
+
+Go to right Turn to 4
+Go to left Turn to 5
