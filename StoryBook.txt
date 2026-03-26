@@ -14,7 +14,10 @@ He had to choose:
 3. go to the right room         3
 
 2
-The wizard turns right and finds himself in a room with no windows and again two doors: left or right. On the wall right in front of him there is an old drawing of a beautiful young lady. Who is she? He feels like he knows her, but he cannot remember who she is and what is she for him. A nostalgia fills him deeply and cannot bear to stay anymore in this room
+The wizard turns right and finds himself in a room with no windows and again two doors: left or right.
+On the wall right in front of him there is an old drawing of a beautiful young lady.
+Who is she? He feels like he knows her, but he cannot remember who she is and what is she for him.
+A nostalgia fills him deeply and cannot bear to stay anymore in this room
 
 Go to right Turn to 4
 Go to left Turn to 5
@@ -94,7 +97,7 @@ The wizard gives up and goes back to the garden to drown himself, the water isto
 
 
 Leave the room - ???
-Inspect the tome further - 5.2 
+Inspect the tome further - 5.2
 Read the spell - 5.x
 
 
@@ -121,3 +124,36 @@ On the cover of the tome it didn't say god. It said dog.
 
 Ending x/x or whatever he turns into a dog thats the story gg
 
+9
+The wizard can feel the breeze on his skin before his eyes finally adjusted to the bright light emanating from inside the room.
+He finds himself near a lake, surrounded by trees and flowers.
+It looks like he is outside but it can't be. Sparkles of magic tingle his skin and realises it is one of his old spells when he dreamed of cristal clear waters and the sound of birds in the trees.
+A hazy memory appears in his mind of a silhouette of a young lady.
+He finally sees that there are two doors again, these never ending doors.
+
+Go to left
+Go to right
+
+17
+Darkness everywhere. No light. He tries to go forward and trips over something... feels soft, too soft, good to sleep on.
+He lies down and sweet dreams come over him. He sees himself running towards the horizon with a young lady on some flowery fields.
+The wizard slept and slept and was never found again, sleeping eternally and never waking up.
+
+
+24
+A loud buzzing envelops him, and he firstly feels the stings before he sees the angry swarm of bees that are getting their revenge.
+Revenge for what? Being stuck in a room with no exit? Probably. Most likely.
+The wizard wants to get out of this room fast. There are three rooms: forward, left or right.
+He should hurry, the bees are not happy at all.
+
+Go forward
+Go to left
+Go to right
+
+29
+A library. How peculiar. What is a library doing here? He does not remember to have a library and so many books.
+Are the book his? Small chances. Did someone else live together with him and the books are theirs? Who knows? Not him.
+He cannot bother enough with books and doesn't intend to start now. He moves on, happily to leave all these books behind.
+
+Go to left
+Go to right
