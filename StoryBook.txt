@@ -65,7 +65,7 @@ The wizard enters through the left door
 He opens it slowly and sees a bunch of flying keys
 Being dyslexic, he has trouble reading the flying spells and accidentally casts a spell that makes the keys fly around him in circles
 Luckily, one of the keys is the key to the next door, and it flies right into his hand
-The key is for the ( Right Door) ( Left Door)
+The key is for the (4 Right Door) (5.11 Left Door)
 
 8
 The wizard enters the room and he finds a sleeping cat. He goes to pet it and as he crouches down to its level
@@ -98,7 +98,6 @@ he has read stories and knows better, he does not complain about not being invit
 The wizard comes into a room where the floor is lava. He knows this game well. He spells a path of stone for him toward
 the next door. But as he steps onto it, he sneezes and falls into the lava. The end
 
-
 (Right Door)
 
 The wizard enters through the right door
@@ -114,7 +113,6 @@ The dragon takes advantage of the situation and starts to eat the wizard
 
 The wizard enters through the left door
 He opens it and sees a beautiful garden with a fountain in the middle
-The wizard walks towards the fountain and sees a magical flower blooming in the center and a sign that says "Pick the flower to win the game"
 But the wizard is dislexic and thinks the sign says "Pick the flower to win the fame"
 He doesn't care about fame and moves forward
 (Left Door) (Right Door)
@@ -151,6 +149,7 @@ The Wizard does not concern himself with potions and finds a door that leads to 
 The Wizard takes the 2 potions but does not drink them, he leaves the dungeon and decides to sell the potions to the King, however the labels on the potions have been ripped out in his journey.
 The king dies.
 
+
 4.4
 The wizard takes the potions and goes back to the garden
 
@@ -159,27 +158,65 @@ The wizard gives up and goes back to the garden to drown himself, the water isto
 
 5: L-R
 
-5.1: In this room he found a chest containing a tome in which a powerful spell was written, one that was said to turn the caster into a god.
 
 
-Leave the room - ???
+5: =============hi this is 5 
+
+5.11:
+Upon arriving in this room the wizard is presented with two doors
+Choose one!
+
+Left door - 5.21
+Right door - 5.31
+Leave the room - 3
+
+
+
+5.21:
+Upon touching the door handle a loud growl can be heard from the room.
+Proceed?
+
+Yes! - 5.22
+No! - 5.11
+
+5.22:
+Upon entering the room he realises that the sound he heard was not a growl and, instead, the sound of bricks sliding across the floor by themselves
+The bricks gather in the middle and form a monster made of clay!
+
+A spell should quickly resolve this encounter
+
+How will you handle it?
+Fireball to attack: 5.23
+Blink to flee: 5.24
+
+5.23:
+Upon casting a fireball spell he uhhhh somehow messes it up and summons it on himself instead of the enemy
+he dies
+
+5.24:
+Upon casting the blink spell, instead of casting outside the room he blinks into the monster and suffocates
+he dies!
+
+
+5.31: In this room he found a chest containing a tome in which a powerful spell was written, one that was said to turn the caster into a god.
+
+
+Leave the room - 5.11
 Inspect the tome further - 5.2 
-Read the spell - 5.x
+Read the spell - 5.33
 
 
-
-
-5.2:
+5.32:
 The tome didn't seem sketchy at all
 He analysed it as deeply as he could but nothing seemed off...
 
-Leave the room - ???
-Read the spell - 5.x
+Leave the room - 5.11
+Read the spell - 5.33
 
 
 
 
-5.x:
+5.33:
 
 He knew that due to his dyslexia, misreading any of the paragraphs of such a powerful spell could lead to catastrophic results, so he had to focus.
 Each word was carefully read and re-read in his head before casting the spell out loud.
@@ -188,7 +225,7 @@ In one smooth sentence he managed to successfully cast it.
 There was one issue though.
 On the cover of the tome it didn't say god. It said dog.
 
-Ending x/x or whatever he turns into a dog thats the story gg
+Dog ending!
 
 Cool story goes here:
 
