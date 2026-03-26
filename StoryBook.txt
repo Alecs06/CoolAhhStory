@@ -1,1 +1,34 @@
 Cool story goes here:
+
+5: L-R
+
+5.1: In this room he found a chest containing a tome in which a powerful spell was written, one that was said to turn the caster into a god.
+
+
+Leave the room - ???
+Inspect the tome further - 5.2 
+Read the spell - 5.x
+
+
+
+
+5.2:
+The tome didn't seem sketchy at all
+He analysed it as deeply as he could but nothing seemed off...
+
+Leave the room - ???
+Read the spell - 5.x
+
+
+
+
+5.x:
+
+He knew that due to his dyslexia, misreading any of the paragraphs of such a powerful spell could lead to catastrophic results, so he had to focus.
+Each word was carefully read and re-read in his head before casting the spell out loud.
+After twelve or so re-reads, he was ready.
+In one smooth sentence he managed to successfully cast it.
+There was one issue though.
+On the cover of the tome it didn't say god. It said dog.
+
+Ending x/x or whatever he turns into a dog thats the story gg
