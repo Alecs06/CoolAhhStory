@@ -26,4 +26,35 @@ Being dyslexic, he has trouble reading the flying spells and accidentally casts 
 Luckily, one of the keys is the key to the next door, and it flies right into his hand
 The key is for the (4 Right Door) (5 Left Door)
 
+8
+The wizard enters the room and he finds a sleeping cat. He goes to pet it and as he crouches down to its level
+the cat opens its eyes. Instead of eyes it has 2 fireballs. He is taken aback and the cat starts growling.
+He sprints towards one of the doors and bursts into the next room, closing the door behind him.
+(right door)
+(left door)
+
+15
+The wizard is in the new room and he discovers a table full of mind puzzles games. He picks up a rubik cube
+(because of course a rubik cube exists in this world). He tries to solve it manually, but he gives up after a while.
+He takes the wand out of his inner pocket and spells the rubik cube to solve itself. He is done with mind puzzles.
+He goes out of the room.
+(Right door)
+(forward)
+(left door)
+
+22
+The wizard enters the room and a lion attacks him. He dies instantly. The lion is no longer hungry. The end
+
+29
+The wizard enters a room and he finds a feast to which he was not invited. It was the baptism of a princess. But, because
+he has read stories and knows better, he does not complain about not being invited. He Leaves.
+
+(right door)
+(forward)
+(left door)
+
+36
+The wizard comes into a room where the floor is lava. He knows this game well. He spells a path of stone for him toward
+the next door. But as he steps onto it, he sneezes and falls into the lava. The end
+
 
