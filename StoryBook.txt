@@ -82,6 +82,12 @@ The Wizard does not concern himself with potions and finds a door that leads to 
 The Wizard takes the 2 potions but does not drink them, he leaves the dungeon and decides to sell the potions to the King, however the labels on the potions have been ripped out in his journey.
 The king dies.
 
+4.4
+The wizard takes the potions and goes back to the garden
+
+4.5
+The wizard gives up and goes back to the garden to drown himself, the water isto shallow so he justt stands there, Menacingly
+
 5: L-R
 
 5.1: In this room he found a chest containing a tome in which a powerful spell was written, one that was said to turn the caster into a god.
