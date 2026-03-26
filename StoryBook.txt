@@ -1,4 +1,30 @@
+Writers man:
+Ungureanu Violeta-Mihaela
 Cool story goes here:
+
+1
+The wizard woke up and felt horrible. His nose was runny, his eyes watery and his mouth felt dry.
+He went to the grimoire to search for a spell to make him feel better.
+But because of his dyslexia and watery eyes, he couldn't read a thing.
+He had to choose:
+
+1. go back to sleep             
+2. go to the left room          2
+3. go to the right room         3
+
+2
+The wizard turns right and finds himself in a room with no windows and again two doors: left or right. On the wall right in front of him there is an old drawing of a beautiful young lady. Who is she? He feels like he knows her, but he cannot remember who she is and what is she for him. A nostalgia fills him deeply and cannot bear to stay anymore in this room
+
+Go to right Turn to 4
+Go to left Turn to 5
+
+3 (Left Door)
+
+The wizard enters through the left door
+He opens it slowly and sees a bunch of flying keys
+Being dyslexic, he has trouble reading the flying spells and accidentally casts a spell that makes the keys fly around him in circles
+Luckily, one of the keys is the key to the next door, and it flies right into his hand
+The key is for the (4 Right Door) (5 Left Door)
 
 
 Left Left
